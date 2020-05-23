@@ -16,7 +16,7 @@ Hoe jij dingen onthoudt bepaal je zelf. Een programeertaal moet je vertellen hoe
 >_Voorbeeld:_  
 >Stel je bouwt in php een spel. In dit spel moet de score van de speler worden bijgehouden. De enige manier om dit te doen is door een variabele aan te maken met een logische naam zoals bijvoorbeeld $score. 
 >
->* Als je een spel begint is de score altijd 0
+>* Als je een spel begint is de score altijd 0 
 >* Als je het volgens de regels hierboven opschrijft ziet de code er zo uit: `$score = 0;`
 >* Vergeet niet dat PHP-code tussen `<?php //de code ?>` tags staat
 >* Om php op het scherm te tonen gebruik je het commando `echo`  gevolgd door een spatie en de waarde die je wilt tonen dus `<?php echo waarde ?>`
@@ -28,7 +28,7 @@ Hoe jij dingen onthoudt bepaal je zelf. Een programeertaal moet je vertellen hoe
 >4. [ ] Ik kan de waarde van een variabele op het scherm tonen
 
 ## Opdracht
-
+ 
 >1. Schrijf je code in `index.php`
 >2. Maak een variabele _score_ aan met de waarde 0
 >3. Toon de waarde van de variabele _score_ op het scherm met `echo`
