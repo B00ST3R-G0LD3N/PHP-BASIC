@@ -16,7 +16,7 @@ In PHP heb je verschillende soorten datatypes namelijk:
 ## In deze taak gaan we het hebben over het datatype string
 
 **In PHP zijn dit de regels voor het opschrijven van een string:**
-* Een **string** moet je altijd schrijven tussen dubbele (") of enkele (') quotes. 
+* Een **string** moet je altijd schrijven tussen dubbele (") of enkele (') quotes.   
 * Een **string** kan bestaan uit een combinatie van letters en cijfers.
 
 ## Leerdoelen

@@ -8,9 +8,9 @@
   </head>
     <form action="index.php" method="get"><!-- dit laten staan! -->
     <?php
-     $score;
-      $score = 0;
-      echo "waarde";
+     $naam;
+      $naam = "sofyan";
+      echo $naam;
     ?>
     <p>Op deze website kun je checken welk datatype je hebt ingevoerd.</p>
     <P>Vul hieronder een getal, een decimaal, een tekst of de tekst true/false in en klik op check!</p> 
