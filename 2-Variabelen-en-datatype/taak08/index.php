@@ -6,16 +6,18 @@
     <title>Document</title>
 </head>
 <body>
+<ul>
     <?php
     
     $voornaam1 = "sofyan";
-    $voornaam2 = ", tarik";
-    $voornaam3 = ", dardan";
+    $voornaam2 = "tarik";
+    $voornaam3 = "dardan";
 
-    echo $voornaam1;
-    echo $voornaam2;
-    echo $voornaam3;
+    
+    echo "<li>$voornaam1</li><li>$voornaam2</li><li>$voornaam3</li>";
     ?>
+    
+    </ul>
 </body>
 </html>
  
