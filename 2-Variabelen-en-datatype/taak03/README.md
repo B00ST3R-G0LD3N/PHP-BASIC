@@ -36,7 +36,7 @@ In PHP heb je verschillende soorten datatypes namelijk:
 
 ## Opdracht
 
->1. Schrijf je code in `index.php`
+>1. Schrijf je code in `index.php` 
 >2. Maak een variabele _leeftijd_ aan met als waarde jouw leeftijd
 >3. Toon de waarde van de variabele _leeftijd_ op het scherm met `echo`
 >2. Maak een variabele _melk_ aan met als waarde de huidige prijs van een pak melk, de prijs moet in decimalen worden geschreven.
