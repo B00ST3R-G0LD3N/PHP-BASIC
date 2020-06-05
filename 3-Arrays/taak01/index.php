@@ -6,11 +6,13 @@
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
+<ul>
 <body>
     <?php
     $myMovies = array("Spiderman", "Batman", "The Joker");
-echo "I like " . $myMovies[0] . ", " . $myMovies[1] . " and " . $myMovies[2] . ".";
-    ?>
+    echo "<li>Spiderman</li> <li>Batman</li> <li> The Joker</li>";
+?>
+</ul>
 </body>
 </html>
  
